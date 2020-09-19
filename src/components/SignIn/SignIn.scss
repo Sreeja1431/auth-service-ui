@@ -1,0 +1,21 @@
+#sign-in {
+  h1 {
+    text-align: center;
+  }
+  .sign-in {
+    width: 50%;
+    margin: auto;
+  }
+  .login-div {
+    margin: 20px;
+    text-align: center;
+  }
+  .login-button {
+    cursor: pointer;
+    background-color: #0070f0;
+    padding: 0.3rem 2.5rem;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    color: white;
+  }
+}
